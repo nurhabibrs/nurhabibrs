@@ -15,7 +15,7 @@ Currently working as Freelance Machine Learning Engineer, but I love learn new t
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on RPA </br>
+    - 🔭 I’m currently working on Freelance Machine Learning Engineer </br>
     - 🌱 I’m currently learning Python, Flutter, and Data Processing </br>
     - 👯 I’m looking to collaborate on Data Scientist. </br>
     - 🤔 I’m looking for help with master of programming. hehe </br>
@@ -26,11 +26,12 @@ Currently working as Freelance Machine Learning Engineer, but I love learn new t
 </details>
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=nurhabibrs&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nurhabibrs&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" /> </br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurhabibrs&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" height=180 />
 </p>
 
 ### Let's connect!
 <p>
     <a href="https://linkedin.com/in/nurhabibrs" target="blank"><img src="" /></a>
+    <a href="https://linkedin.com/in/nurhabibrs"><img width="128" alt="LinkedIn logo initials" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/128px-LinkedIn_logo_initials.png"></a>
 </p>
