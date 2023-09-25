@@ -26,8 +26,8 @@ Currently working as Freelance Machine Learning Engineer, but I love learn new t
 </details>
 
 <p>
-    <img src="![nurhabibrs's Stats](https://github-readme-stats.vercel.app/api?username=nurhabibrs&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)" />
-    <img src="![nurhabibrs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nurhabibrs&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=nurhabibrs&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurhabibrs&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" height=180 />
 </p>
 
 ### Let's connect!
