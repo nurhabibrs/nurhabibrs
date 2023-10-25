@@ -15,14 +15,14 @@ Currently working as Freelance Machine Learning Engineer, but I love learn new t
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on Freelance Machine Learning Engineer </br>
+    - 🔭 I’m currently working as a Freelance Machine Learning Engineer </br>
     - 🌱 I’m currently learning Python, Flutter, and Data Processing </br>
-    - 👯 I’m looking to collaborate on Data Scientist. </br>
-    - 🤔 I’m looking for help with master of programming. hehe </br>
+    - 👯 I’m looking to collaborate as a Data Scientist or Machine Learning Engineer. </br>
+    - 🤔 I’m looking for help with my master of programming. hehe </br>
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="mailto:nurhabibrs@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
-    - ⚡ Fun fact: ... </br>
+    <!-- - ⚡ Fun fact: ... </br> -->
 </details>
 
 <p>
