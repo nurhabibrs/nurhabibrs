@@ -18,4 +18,8 @@ Currently working as Freelance Machine Learning Engineer, but I love learn new t
 
 
 ### Let's connect!
-<a href="https://linkedin.com/in/nurhabibrs"><img width="32" alt="Nur Habib's Linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/128px-LinkedIn_logo_initials.png"></a>
+<p align="left">
+    <a href="https://linkedin.com/in/nurhabibrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nurhabibrs" height="30" width="40" /></a>
+    <a href="https://twitter.com/nurhabibrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nurhabibrs" height="30" width="40" /></a>
+    <a href="https://instagram.com/nurhabibrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nurhabibrs" height="30" width="40" /></a>
+</p>
