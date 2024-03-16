@@ -1,10 +1,8 @@
 # Hi there 👋 , I'm Habib!
-I am currently working as Software Engineer, but I love learning new things in programming, technology, and Artificial Intelligence (AI).  
+I am currently working as Full stack developer, but I love learning new things in programming, technology, and Artificial Intelligence (AI).  
 
 ### Stats:
-- 🔭 I’m currently working as a Software Engineer </br>
-- 🌱 I’m currently learning Python, Flutter, and Data Processing </br>
-- 👯 I would like to collaborate as a Data Scientist, Machine Learning Engineer, and Full-stack Developer. </br>
+- 🔭 I’m currently working as a Full stack developer </br>
 - 🤔 I’m looking for help with my master of programming. hehe </br>
 - 💬 Ask me about anything.</br>
 - 📫 How to reach me: <a href="mailto:nurhabibrs@gmail.com">Email me!</a>  </br>
