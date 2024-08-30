@@ -1,4 +1,5 @@
 # Hi there 👋 , I'm Habib!
+![](https://komarev.com/ghpvc/?username=nurhabibrs&color=green)
 I am currently working as Full stack developer, but I love learning new things in programming, technology, and Artificial Intelligence (AI).  
 
 ### Stats:
