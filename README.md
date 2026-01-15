@@ -14,7 +14,7 @@ I am currently working as Full stack developer, but I love learning new things i
 
 
 
-| <img src="https://github-readme-stats.vercel.app/api?username=nurhabibrs&theme=highcontrast&show_icons=true&hide_border=true&layout=compact&cache_second=7200" align="center" alt="Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurhabibrs&theme=highcontrast&show_icons=true&hide_border=true&layout=compact&cache_second=7200" align= "center" alt="Stats" /> |
+| <img src="https://github-readme-stats-fast.vercel.app/api?username=nurhabibrs&show_icons=true&theme=radical" align="center" alt="Stats" /> | <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nurhabibrs&exclude_repo=github-readme-stats,nurhabibrs.github.io" align= "center" alt="Stats" /> |
 | ------------- | ------------- |
 
 ![***](https://raw.githubusercontent.com/nurhabibrs/nurhabibrs/output/github-contribution-grid-snake.svg)
