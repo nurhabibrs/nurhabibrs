@@ -2,10 +2,10 @@
 <img src="https://komarev.com/ghpvc/?username=nurhabibrs&abbreviated=true&color=green" />
 
 
-I am currently working as Full stack developer, but I love learning new things in programming, technology, and Artificial Intelligence (AI).  
+I am currently working as Software Engineer developer, but I love learning new things in programming, technology, and Artificial Intelligence (AI).  
 
 ### Stats:
-- 🔭 I’m currently working as a Full stack developer </br>
+- 🔭 I’m currently working as a Software Engineer </br>
 - 🤔 I’m looking for help with my master of programming. hehe </br>
 - 💬 Ask me about anything.</br>
 - 📫 How to reach me: <a href="mailto:nurhabibrs@gmail.com">Email me!</a>  </br>
